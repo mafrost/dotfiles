@@ -23,4 +23,5 @@ open "http://www.mamp.info/en/downloads/"
 open "http://25.io/mou/"
 open "http://www.skype.com/download-skype/skype-for-computer/"
 open "https://developer.apple.com/xcode/downloads/"
+open "https://imageoptim.com/"
 
