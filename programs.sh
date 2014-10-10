@@ -24,4 +24,4 @@ open "http://25.io/mou/"
 open "http://www.skype.com/download-skype/skype-for-computer/"
 open "https://developer.apple.com/xcode/downloads/"
 open "https://imageoptim.com/"
-
+open "http://aki-null.net/shiori/"
