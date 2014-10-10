@@ -5,6 +5,10 @@
 .DS_Store
 Desktop.ini
 
+node_modules
+.Spotlight-V100
+.sass-cache
+
 # Thumbnail cache files
 ._*
 Thumbs.db
